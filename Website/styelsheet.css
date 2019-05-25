@@ -5,3 +5,18 @@ body{
 	font-family: verdana, georgia, arial, serif;
 	font-size: 14px;
 }
+#nav_bar{
+
+	background-color: #1547D6;
+	margin: 10px;
+	height: 80px;
+	border-radius: 5px;
+}
+
+#icon_bar{
+
+	background-color: #1547D6;
+	margin: 10px;
+	height: 80px;
+	border-radius: 5px;
+}
