@@ -3428,7 +3428,8 @@ i.icon-lg {
 
 #carousel-area {
     overflow: hidden;
-    background: #2c3e50
+    background: #2c3e50;
+    height: 420px;
 }
 
 #carousel-area .carousel-inner .carousel-item {
@@ -3614,4 +3615,12 @@ i.icon-lg {
 
 .portfolio-controls ul li a.btn i.fa {
     font-size: 37px
+}
+
+#carousel-slider{
+    height: 420px !important;
+}
+
+.carousel-item{
+    height: 420px !important;
 }

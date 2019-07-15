@@ -103,3 +103,11 @@ ul.nav-tabs li a {
     margin-bottom: 10px;
     padding: 10px 15px;
 }
+
+.carousel{
+    height: 420px;
+}
+
+#carousel-slider{
+    height: 420px !important;
+}
