@@ -14,7 +14,9 @@ body {
     overflow-x: hidden;
     line-height: 25px;
     -webkit-backface-visibility: hidden;
-    backface-visibility: hidden
+    backface-visibility: hidden;
+    width: 80%;
+    padding-left: 20%;
 }
 
 .roof-menu ul li.active a:hover, .roof-menu ul li a:hover {
@@ -1132,7 +1134,8 @@ ul li > ul > li.active > a {
 }
 
 #portfolios {
-    background: #f6f6f6
+    background: #f6f6f6;
+    padding-top: 20px;
 }
 
 #portfolios .mix {
