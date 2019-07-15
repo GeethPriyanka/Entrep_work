@@ -3624,3 +3624,7 @@ i.icon-lg {
 .carousel-item{
     height: 420px !important;
 }
+
+#navbar-login{
+    float: right;
+}
