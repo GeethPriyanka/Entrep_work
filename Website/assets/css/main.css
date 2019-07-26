@@ -3631,3 +3631,11 @@ i.icon-lg {
 #navbar-login{
     float: right;
 }
+
+#main-btn-set{
+    padding: 50px;
+}
+
+#main-btn{
+    text-align: center;
+}
